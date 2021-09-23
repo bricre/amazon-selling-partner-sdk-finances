@@ -1,6 +1,5 @@
 {
   "name": "bricre/amazon-selling-partner-sdk-finances",
-  "version": "v0",
   "description": "API client generated from OpenAPI definition from Amazon Selling Partner API for Finances",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
